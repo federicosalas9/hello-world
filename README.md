@@ -1,3 +1,3 @@
 # hello-world
-mi primer proyecto en github
-esto es una rama nueva para generar modificaciones sin alterar la rama principal
+esta es la segunda modificacion que le hago al archivo
+espero les guste
